@@ -1,7 +1,7 @@
 google_api_python_client
 google_auth_oauthlib
 openai
-protobuf
+protobuf==3.20.*
 python-dotenv
 Requests
 streamlit
